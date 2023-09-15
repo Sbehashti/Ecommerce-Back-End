@@ -5,9 +5,8 @@
 ## Table of Contents
 1. [Acceptance Criteria](#acceptance-criteria)
 2. [Work Completed](#work-completed)
-3. [Screenshot of Insomnia core](#screenshot-of-insomnia-core)
-4. [Video Walkthrough](#video-walkthrough)
-5. [Credits](#credits)
+3. [Video Walkthrough](#video-walkthrough)
+4. [Credits](#credits)
 
 ## Acceptance Criteria
 - GIVEN a functional Express.js API, WHEN I add my database name, MySQL username, and MySQL password to an environment variable file, THEN I am able to connect to a database using Sequelize;
@@ -23,11 +22,9 @@
 - When API GET routes are used in Insomnia Core, the user is able to view the data for each of these routes in a formatted JSON.
 - When Insomnia Core is used to test the API routes, the user is able to successfully create, update, and delete data in the database.
 
-## Screenshot of Insomnia core
-### The following image shows the application's GET routes to return all categories, all products, and all tags being tested in Insomnia Core:
-
 ## Video Walkthrough
 
+https://drive.google.com/file/d/15UWoSfKNsPiVJiXUam-O12BOsZejqRj1/view
 
 ## Credits
 
@@ -44,3 +41,4 @@
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [GitHub](https://github.com/)
 - [Git Bash](https://git-scm.com/downloads)
+- [ScreenCastify](https://www.screencastify.com/)
